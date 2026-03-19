@@ -82,6 +82,10 @@ Chart yang dibuat:
 7. Age at Enrollment vs Status -> Menunjukkan rata-rata usia mahasiswa saat pertama masuk kuliah berdasarkan status mahasiswa
 8. Academic Performance vs Status -> Menunjukkan perbandingan performa akademik mahasiswa berdasarkan status mahasiswa
 
+## Prototype Machine Learning
+
+Link Prototype Machine Learning pada Streamlit Community Cloud: https://menyelesaikan-permasalahan-institusi-pendidikan-a8xhin77v9wcjz.streamlit.app/ 
+
 ## Conclusion
 
 Proyek ini bertujuan untuk menganalisis fenomena dropout mahasiswa di Jaya Jaya Institut serta mengidentifikasi faktor-faktor yang berkaitan dengan status akademik mahasiswa. Berdasarkan hasil analisis data, diketahui bahwa dari total 4.424 mahasiswa, sekitar 32,12% mengalami dropout, sementara sekitar 49,93% berhasil lulus dan sisanya masih berstatus enrolled. Angka tersebut menunjukkan bahwa dropout merupakan permasalahan yang cukup signifikan bagi institusi karena hampir sepertiga mahasiswa tidak menyelesaikan pendidikannya.
